@@ -63,7 +63,10 @@
 ## 2. Анализ m-food.ru (референс)
 
 ### 2.1. Структура лендинга
-Скриншоты: `screenshots/mfood-landing-clean.jpeg`, `screenshots/mfood-programs.jpeg`
+
+![Главная страница — hero-баннер](screenshots/mfood-landing-clean.jpeg)
+
+![Конструктор: выбор блюд, календарь, тарифы](screenshots/mfood-programs.jpeg)
 
 | Секция | Описание |
 |--------|----------|
@@ -79,7 +82,8 @@
 | **Футер** | Логотип, сертификат, ссылки на приложения (App Store, Google Play, AppGallery), QR-код, ссылки на меню PDF, блог, документы, контакты |
 
 ### 2.2. Карточка блюда (попап)
-Скриншот: `screenshots/mfood-dish-card.jpeg`
+
+![Попап карточки блюда — КБЖУ, вес](screenshots/mfood-dish-card.jpeg)
 
 - Фото блюда
 - Название блюда
@@ -87,16 +91,31 @@
 - Вес порции (г)
 
 ### 2.3. Личный кабинет
-Скриншоты: `screenshots/mfood-personal-main.jpeg`, `screenshots/mfood-profile-fields.jpeg`
+
+![Личный кабинет — профиль (верх)](screenshots/mfood-personal-main.jpeg)
+
+![Профиль — поля, адреса](screenshots/mfood-profile-fields.jpeg)
 
 **Табы:**
 1. **Профиль** — Телефон, Имя, Email, День рождения, Пол (М/Ж), Мои адреса (список + добавление), Настройка рассылок
-2. **Заказы** — Текущие / Прошлые, кнопка "Оформить новый" (`screenshots/mfood-orders.jpeg`)
-3. **Бонусы** — Баланс, описание (3-9% кэшбэк, 1 бонус = 1₽, оплата до 50%, срок 90 дней), ввод кода сертификата (`screenshots/mfood-bonuses.jpeg`)
-4. **Пригласить друга** — Промокод, ссылка для друга, шаринг в ВК/Telegram/WhatsApp, друг получает 5% скидку, приглашающий — 500 бонусов (`screenshots/mfood-referral.jpeg`)
+
+2. **Заказы** — Текущие / Прошлые, кнопка "Оформить новый"
+
+![Заказы — текущие/прошлые](screenshots/mfood-orders.jpeg)
+
+3. **Бонусы** — Баланс, описание (3-9% кэшбэк, 1 бонус = 1₽, оплата до 50%, срок 90 дней), ввод кода сертификата
+
+![Бонусы — баланс, описание](screenshots/mfood-bonuses.jpeg)
+
+4. **Пригласить друга** — Промокод, ссылка для друга, шаринг в ВК/Telegram/WhatsApp, друг получает 5% скидку, приглашающий — 500 бонусов
+
+![Пригласить друга — реферальная программа](screenshots/mfood-referral.jpeg)
 
 ### 2.4. Оформление заказа (Checkout)
-Скриншоты: `screenshots/mfood-checkout-top.jpeg`, `screenshots/mfood-checkout-bottom.jpeg`
+
+![Оформление заказа — верх (план, контакты, адрес)](screenshots/mfood-checkout-top.jpeg)
+
+![Оформление заказа — низ (дата, оплата, комментарий)](screenshots/mfood-checkout-bottom.jpeg)
 
 | Блок | Поля |
 |------|------|
@@ -110,7 +129,9 @@
 | **Итого** | Рацион (сумма), Бонусы (+начисление), Доставка (Бесплатно), кнопка "Оформить заказ" |
 
 ### 2.5. Страница акций
-Скриншот: `screenshots/mfood-promo.jpeg`
+
+![Страница акций (пустая)](screenshots/mfood-promo.jpeg)
+
 - Пуста — "Следите за актуальными новостями и акциями в соцсетях"
 
 ---
